@@ -1,1 +1,1 @@
-# projet_tfe1
+bonjour je vais vous expliquer le projet de Israfil Ibragimov et Nassim Maouche on va crée une application qu'on transformera en interface graphique qui sert de communiquer entre les étudiants. Les étudiants qui sont connecté pourront discuter de leur tfe toute en restant en sécurité et en privé si ils le veulent et faire les groupe.
